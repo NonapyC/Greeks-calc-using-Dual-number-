@@ -1,7 +1,11 @@
 # Greeks-calc-using-Dual-number-
 This code is for comparing the numerical caluclation of Greeks by the result of central differential and the result of automatic  differential.
 
-The dual numbers extend the real numbers by adjoining one new element ε with the property ε^2 = 0. Using this properties, we can caluculate the derivative of any real function. This method in which we find the derivatives is called "automatic differentiation".
+The dual numbers extend the real numbers by adjoining one new element ε with the property:
+
+ε^2 = 0. 
+
+Using this properties, we can caluculate the derivative of any real function. This method in which we find the derivatives is called "automatic differentiation".
 
 In this repository, we show the comparison between the two method of numerical caluclation of Greeks. One is central differentiation and the other one is automatic differentiation.
 
